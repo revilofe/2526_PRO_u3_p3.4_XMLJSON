@@ -1,22 +1,17 @@
-# Práctica 1.2: Primeros programas
+# Práctica 3.4: JSON y XML
 
 Apoyate en los siguientes recursos para realizar la práctica:
 
-[U1: Introducción al desarrollo de software](https://revilofe.github.io/section1/u01/)
+[U3: JSON](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica004/)
+[U3: XML](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica005/)
 
 
 ## Ejercicios. 
-Cada ejercicio en un archjivo diferente.
-
-   * [P1.2 - Ejercicios básicos](https://revilofe.github.io/section1/u01/practica/PROG-U1.-Practica002/) *(cada ejercicio en un fichero: ej01.py al ej27.py)*
-   * [P1.2b - Ejercicios básicos EXTRA](info/p1.2b_ejercicios_basicos_EXTRA.md)
-   * [P1.2c - Soluciona estos problemas](info/p1.2c_soluciona_estos_problemas.md)
-   * [P1.2d - Construye funciones](info/p1.2d_construye_funciones.md)
-   * [P1.2e - Primeras pruebas unitarias](info/p1.2e_pruebas_unitarias.md)
+Cada ejercicio en un archivo diferente.
 
 ## Entrega
-1. Agregar en la carpeta `src` los programas (p1.2, p1.2b, p1.2c, p1.2d)
-2. Las pruebas unitarias en la carpeta `tests` (p1.2e)
+1. Agregar en la carpeta `src` los programas (json.py, xml.py)
+2. Las pruebas unitarias en la carpeta `tests`
 3. Mas abajo tienes un ejemplo de como entregar la práctica.
 4. Recuerda que debes subir el enlace al repositorio en la tarea correspondiente del aula virtual.
 
@@ -62,6 +57,8 @@ Cada ejercicio en un archjivo diferente.
 ## Desarrollo de la Actividad
 ### Descripción del Desarrollo
 [Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
+Los enlaces al codigo se realizaran tal y como se describe [aqui](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
+
 
 ### Código Fuente
 [Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
